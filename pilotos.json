@@ -1,0 +1,129 @@
+{
+    "squadName": "Escuderias Fórmula 1",
+    "homeTown": "Calendario",
+    "formed": 2023,
+    "active": true,
+    "members": [
+
+        {
+            "name": "MERCEDES",
+            "age": 1970,
+            "director": "Toto Wolff",
+            "Neumáticos":"Pirelli",
+            "Motor":"Mercedes",
+            "powers": [
+                "Lewis Hamilton",
+                "GEORGE RUSSELL"
+            ],
+            "img":"https://formula1.lne.es/media/escuderias/big/mercedes.jpg?4"
+        },
+        {
+            "name": "FERRARI",
+            "age": 1950,
+            "director": "Frédéric Vasseur",
+            "Neumáticos":"Pirelli",
+            "Motor":"Ferrari",
+            "powers": [
+                "Charles Lecrerc",
+                "Carlos Sainz"
+            ],
+            "img":"https://formula1.lne.es/media/escuderias/big/ferrari.jpg?4"
+        },
+        {
+            "name": "ALPINE",
+            "age": 1986,
+            "director": "Otmar Szafnauer",
+            "Neumáticos":"Pirelli",
+            "Motor":"Renault",
+            "powers": [
+                "Pierre Gasly",
+                "Esteban ocon"
+            ],
+            "img":"https://formula1.lne.es/media/escuderias/big/alpine.jpg?4"
+        },
+        {
+            "name": "HAAS",
+            "age": 2016,
+            "director": "Guenther Steiner",
+            "Neumáticos":"Pirelli",
+            "Motor":"Ferrari",
+            "powers": [
+                "Kevin Magnussen",
+                "Nico Hulkenberg"
+            ],
+            "img":"https://formula1.lne.es/media/escuderias/big/haas.jpg?4"
+        },
+         {
+        "name": "MCLAREN",
+        "age": 1966,
+        "director": "Andrea Stella",
+        "Neumáticos":"Pirelli",
+        "Motor":"Mercedes",
+        "powers": [
+            "Lando Norris",
+            "Oscar PiastriS"
+        ],
+        "img":"https://formula1.lne.es/media/escuderias/big/mclaren.jpg?4"
+    },
+    {
+        "name": "RED BULL",
+        "age": 1997,
+        "director": "Christian Horner",
+        "Neumáticos":"Pirelli",
+        "Motor":"Honda RBPT",
+        "powers": [
+            "Max Verstappen",
+            "Sergio Perez"
+        ],
+        "img":"https://formula1.lne.es/media/escuderias/big/red-bull.jpg?4"
+    },
+    {
+        "name": "ASTON MARTIN",
+        "age": 2018,
+        "director": "Mike Krack",
+        "Neumáticos":"Pirelli",
+        "Motor":"Mercedes",
+        "powers": [
+            "Fernando Alonso",
+            "Lance Stroll"
+        ],
+        "img":"https://formula1.lne.es/media/escuderias/big/aston-martin.jpg?4"
+    },
+    {
+        "name": "ALFA ROMEO",
+        "age": 1993,
+        "director": "Alessandro Alunni Bravi",
+        "Neumáticos":"Pirelli",
+         "Motor":"Ferrari",
+        "powers": [
+            "Guanyu Zhou",
+            "Valtteri Bottas"
+        ],
+        "img":"https://formula1.lne.es/media/escuderias/big/alfa-romeo.jpg?4"
+    },
+    {
+        "name": "ALPHATAURI",
+        "age": 1985,
+        "director": "Franz Tost",
+        "Neumáticos":"Pirelli",
+        "Motor":"Honda RBPT",
+        "powers": [
+            "Nyck De Vries",
+            "Yuki Tsunoda"
+        ],
+        "img":"https://formula1.lne.es/media/escuderias/big/alphatauri.jpg?4"
+    },
+    {
+        "name": "WILLIAMS",
+        "age": 1978,
+        "director": "James Vowles",
+        "Neumáticos":"Pirelli",
+         "Motor":"Mercedes",
+        "powers": [
+            "Logan Sargeant",
+            "Alexander Albon"
+        ],
+        "img":"https://formula1.lne.es/media/escuderias/big/williams.jpg?4"
+    }
+    ]
+}
